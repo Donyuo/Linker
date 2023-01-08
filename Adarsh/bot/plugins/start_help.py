@@ -51,7 +51,7 @@ async def start(b, m):
             except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="**𝙷𝙸... 👋\𝚗\𝚗𝚆𝙴𝙻𝙲𝙾𝙼𝙸𝙽𝙶 𝚈𝙾𝚄 𝚃𝙾 𝙰 𝙼𝙰𝙶𝙸𝙲𝙰𝙻 𝚆𝙾𝚁𝙻𝙳**",
+                    text="**𝙷𝙸... 👋\n\n𝚆𝙴𝙻𝙲𝙾𝙼𝙸𝙽𝙶 𝚈𝙾𝚄 𝚃𝙾 𝙰 𝙼𝙰𝙶𝙸𝙲𝙰𝙻 𝚆𝙾𝚁𝙻𝙳**",
                     
                     disable_web_page_preview=True)
                 return
@@ -96,7 +96,7 @@ async def start(b, m):
             except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="**𝙷𝙸... 👋\𝚗\𝚗𝚆𝙴𝙻𝙲𝙾𝙼𝙸𝙽𝙶 𝚈𝙾𝚄 𝚃𝙾 𝙰 𝙼𝙰𝙶𝙸𝙲𝙰𝙻 𝚆𝙾𝚁𝙻𝙳**",
+                    text="**𝙷𝙸... 👋\n\n𝚆𝙴𝙻𝙲𝙾𝙼𝙸𝙽𝙶 𝚈𝙾𝚄 𝚃𝙾 𝙰 𝙼𝙰𝙶𝙸𝙲𝙰𝙻 𝚆𝙾𝚁𝙻𝙳**",
                     disable_web_page_preview=True)
                 return
 
@@ -167,7 +167,7 @@ async def help_handler(bot, message):
         except Exception:
             await bot.send_message(
                 chat_id=message.chat.id,
-                text="**𝙷𝙸... 👋\𝚗\𝚗𝚆𝙴𝙻𝙲𝙾𝙼𝙸𝙽𝙶 𝚈𝙾𝚄 𝚃𝙾 𝙰 𝙼𝙰𝙶𝙸𝙲𝙰𝙻 𝚆𝙾𝚁𝙻𝙳**",
+                text="**𝙷𝙸... 👋\n\n𝚆𝙴𝙻𝙲𝙾𝙼𝙸𝙽𝙶 𝚈𝙾𝚄 𝚃𝙾 𝙰 𝙼𝙰𝙶𝙸𝙲𝙰𝙻 𝚆𝙾𝚁𝙻𝙳**",
                 
                 disable_web_page_preview=True)
             return
@@ -220,7 +220,7 @@ async def about_handler(bot, message):
         except Exception:
             await bot.send_message(
                 chat_id=message.chat.id,
-                text="**𝙷𝙸... 👋\𝚗\𝚗𝚆𝙴𝙻𝙲𝙾𝙼𝙸𝙽𝙶 𝚈𝙾𝚄 𝚃𝙾 𝙰 𝙼𝙰𝙶𝙸𝙲𝙰𝙻 𝚆𝙾𝚁𝙻𝙳**",
+                text="**𝙷𝙸... 👋\n\n𝚆𝙴𝙻𝙲𝙾𝙼𝙸𝙽𝙶 𝚈𝙾𝚄 𝚃𝙾 𝙰 𝙼𝙰𝙶𝙸𝙲𝙰𝙻 𝚆𝙾𝚁𝙻𝙳**",
                 
                 disable_web_page_preview=True)
             return
