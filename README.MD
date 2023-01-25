@@ -1,23 +1,19 @@
 **<h1 align="center"><b>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ⚡</b></h1>**
-<p align="center">
-  <a href="https://youtube.com/@kwicbotupdates">
-    <img src="https://te.legra.ph/file/8dfe7256883cbc0190478.jpg">
-  </a>
   <p align="center">
     𝙸 𝙲𝙰𝙽 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴 𝙳𝙸𝚁𝙴𝙲𝚃 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾/𝙵𝙸𝙻𝙴𝚂 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙾𝙽𝙻𝙸𝙽𝙴 & 𝙵𝙾𝚁 𝚂𝚃𝚁𝙴𝙰𝙼𝙸𝙽𝙶...
     <br />
-    <a href="https://t.me/kwichighspeedbot"><strong>𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃 »</strong></a>
+    <a href="https://t.me/+Rm1Q1qVxhdg4ZWVl"><strong>𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃 »</strong></a>
     <br />
   </p>
   <p align="center">
-  <a href="https://youtube.com/@kwicbotupdates">
-        <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
+  <a href="https://t.me/+Rm1Q1qVxhdg4ZWVl">
+        <img src="https://img.shields.io/badge/JOIN-blue?logo=telegram" width="200">
   </p>
 <hr>
   
 ## About This Bot
 
-<b><a href="https://www.github.com/KWICBOTS" title="Follow">Follow Me For Updates</a></b>
+<b><a href="https://www.github.com/AnandhuHari" title="Follow">Follow Me For Updates</a></b>
 
 ## Up to 4GB files Supported ♥️
 
@@ -50,7 +46,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the button and make ytml folder and deploy on Render
 
-<a href="https://render.com/deploy?repo=https://github.com/KWICBOTS/kwichighspeedbot">
+<a href="https://render.com/deploy?repo=https://github.com/AnandhuHari/kwichighspeedbot">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
