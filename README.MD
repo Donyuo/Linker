@@ -156,11 +156,8 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Adarsh Goel_(me)](https://github.com/adarsh-goel)
-- [DeekshithSH](https://github.com/DeekshithSH) 
-- <b>⍣ [ᴀᴀᴅʜɪ](https://GitHub.com/Aadhi000)</b>
-- <b>⍣ [KWIC](https://GitHub.com/KWICBOTS)</b>
-- Everyone In This Journey !
+- <b>⚜️[AnandhuHari (me)](https://github.com/AnandhuHari)</b>
+- <b>⍣ [GUARDIANff](https://github.com/AnandhuHari)</b>
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [KWIC](https://t.me/kwicbotupdates) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/sharun_pheonix/) | [ɢɪᴛʜᴜʙ](https://GitHub.com/KWICBOTS)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [𝘬𝘸𝘪𝘤𝘉𝘰𝘵 𝘜𝘱𝘥𝘢𝘵𝘦𝘴 ](https://t.me/kwicbotupdates)</b>
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [GUARDIANff](https://t.me/+Rm1Q1qVxhdg4ZWVl) | [ɢɪᴛʜᴜʙ](https://GitHub.com/AnandhuHari)</b>                                                                                                                                                                                    
+<b>ᴄʜᴀɴɴᴇʟ ›› [ᴀᴅʜᴏʟᴏᴋᴀᴍ](https://t.me/+Rm1Q1qVxhdg4ZWVl)</b>
