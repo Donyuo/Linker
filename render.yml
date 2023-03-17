@@ -4,7 +4,7 @@ services:
     name: File-To-Link-Bot
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python bot.py
+    startCommand: python -m Adarsh
     repo: https://github.com/AnandhuHari/PYRO-RENAME-BOT.git      
     branch: main
     envVars:
