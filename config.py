@@ -2,7 +2,7 @@ from os import environ
 
 API_ID = int(environ.get("API_ID", "15257211"))
 API_HASH = environ.get("API_HASH", "8b7cf73ce577720d74a213bbb98f4104")
-BOT_TOKEN = environ.get("BOT_TOKEN", "6067195140:AAGUO0M-2z34L4061BLbY9pjlDlCHJ4in9c")
+BOT_TOKEN = environ.get("BOT_TOKEN", "6171845618:AAFn1Lu0OKZ06CFZjrcjgwBG_aLxW3n3fLA")
 ADMIN = int(environ.get("ADMIN", "1350212613"))          
 ENV = environ.get("ENV", "True")
 HAS_SSL = environ.get("HAS_SSL", "True")
