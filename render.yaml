@@ -1,0 +1,35 @@
+services:
+  - type: web
+    plan: free
+    name: Filetolink
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: pythom -m Adarsh
+    repo: https://github.com/Guardianff/Rederlinkbot.git
+    branch: main
+    envVars:
+      - key: API_ID
+        sync: false
+      - key: API_HASH
+        sync: false
+      - key: BOT_TOKEN
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: API_ID
+        sync: false
+      - key: API_ID
+        sync: false
+      - key: API_ID
+        sync: false
+      - key: API_ID
+        sync: false
+      - key: API_ID
+        sync: false
+      - key: API_ID
+        sync: false
+      - key: API_ID
+        sync: false
+      - key: API_ID
+        sync: false
+    autoDeploy: true
