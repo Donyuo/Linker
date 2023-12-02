@@ -16,20 +16,24 @@ services:
         sync: false
       - key: DATABASE_URL
         sync: false
-      - key: API_ID
+      - key: BIN_CHANNEL
         sync: false
-      - key: API_ID
+      - key: OWNER_ID
         sync: false
-      - key: API_ID
+      - key: OWNER_USERNAME
         sync: false
-      - key: API_ID
+      - key: ENV
         sync: false
-      - key: API_ID
+      - key: PORT
         sync: false
-      - key: API_ID
+      - key: NO_PORT
         sync: false
-      - key: API_ID
+      - key: HAS_SSL
         sync: false
-      - key: API_ID
+      - key: MY_PASS
+        sync: false
+      - key: SESSION_NAME
+        sync: false
+      - key: FQDN
         sync: false
     autoDeploy: true
